@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.e41f6c6a.chunk.css",
-  "main.js": "/static/js/main.59e06d77.chunk.js",
-  "main.js.map": "/static/js/main.59e06d77.chunk.js.map",
-  "static/js/1.aaaa9b0a.chunk.js": "/static/js/1.aaaa9b0a.chunk.js",
-  "static/js/1.aaaa9b0a.chunk.js.map": "/static/js/1.aaaa9b0a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.e41f6c6a.chunk.css.map": "/static/css/main.e41f6c6a.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.1636ceab993a5365999d9c3a3481f5a1.js": "/precache-manifest.1636ceab993a5365999d9c3a3481f5a1.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/yatishpro/burger/static/css/main.e41f6c6a.chunk.css",
+  "main.js": "/yatishpro/burger/static/js/main.c8051d54.chunk.js",
+  "main.js.map": "/yatishpro/burger/static/js/main.c8051d54.chunk.js.map",
+  "static/js/1.aaaa9b0a.chunk.js": "/yatishpro/burger/static/js/1.aaaa9b0a.chunk.js",
+  "static/js/1.aaaa9b0a.chunk.js.map": "/yatishpro/burger/static/js/1.aaaa9b0a.chunk.js.map",
+  "runtime~main.js": "/yatishpro/burger/static/js/runtime~main.c2fc7ff6.js",
+  "runtime~main.js.map": "/yatishpro/burger/static/js/runtime~main.c2fc7ff6.js.map",
+  "static/css/main.e41f6c6a.chunk.css.map": "/yatishpro/burger/static/css/main.e41f6c6a.chunk.css.map",
+  "index.html": "/yatishpro/burger/index.html",
+  "precache-manifest.04a574ecc26786b9b493f9c58c9ce286.js": "/yatishpro/burger/precache-manifest.04a574ecc26786b9b493f9c58c9ce286.js",
+  "service-worker.js": "/yatishpro/burger/service-worker.js"
 }
