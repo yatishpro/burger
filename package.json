@@ -2,6 +2,7 @@
   "name": "burger",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/yatishpro/burger",
   "dependencies": {
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
@@ -39,6 +40,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yatishpro/burger/issues"
-  },
-  "homepage": "https://github.com/yatishpro/burger"
+  }
 }
