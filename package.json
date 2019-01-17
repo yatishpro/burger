@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/yatishpro/burger",
+  "homepage": "https://yatishpro.github.io/burger",
   "dependencies": {
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
