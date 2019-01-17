@@ -1,13 +1,14 @@
 {
-  "main.css": "/yatishpro/burger/static/css/main.e41f6c6a.chunk.css",
-  "main.js": "/yatishpro/burger/static/js/main.c8051d54.chunk.js",
-  "main.js.map": "/yatishpro/burger/static/js/main.c8051d54.chunk.js.map",
-  "static/js/1.aaaa9b0a.chunk.js": "/yatishpro/burger/static/js/1.aaaa9b0a.chunk.js",
-  "static/js/1.aaaa9b0a.chunk.js.map": "/yatishpro/burger/static/js/1.aaaa9b0a.chunk.js.map",
+  "main.css": "/yatishpro/burger/static/css/main.436dca88.chunk.css",
+  "main.js": "/yatishpro/burger/static/js/main.b658fb13.chunk.js",
+  "main.js.map": "/yatishpro/burger/static/js/main.b658fb13.chunk.js.map",
+  "static/js/1.1d9e0806.chunk.js": "/yatishpro/burger/static/js/1.1d9e0806.chunk.js",
+  "static/js/1.1d9e0806.chunk.js.map": "/yatishpro/burger/static/js/1.1d9e0806.chunk.js.map",
   "runtime~main.js": "/yatishpro/burger/static/js/runtime~main.c2fc7ff6.js",
   "runtime~main.js.map": "/yatishpro/burger/static/js/runtime~main.c2fc7ff6.js.map",
-  "static/css/main.e41f6c6a.chunk.css.map": "/yatishpro/burger/static/css/main.e41f6c6a.chunk.css.map",
+  "static/media/burger-logo.png": "/yatishpro/burger/static/media/burger-logo.b8503d26.png",
+  "static/css/main.436dca88.chunk.css.map": "/yatishpro/burger/static/css/main.436dca88.chunk.css.map",
   "index.html": "/yatishpro/burger/index.html",
-  "precache-manifest.04a574ecc26786b9b493f9c58c9ce286.js": "/yatishpro/burger/precache-manifest.04a574ecc26786b9b493f9c58c9ce286.js",
+  "precache-manifest.62428591f909a595a403f9806cc19d42.js": "/yatishpro/burger/precache-manifest.62428591f909a595a403f9806cc19d42.js",
   "service-worker.js": "/yatishpro/burger/service-worker.js"
 }
